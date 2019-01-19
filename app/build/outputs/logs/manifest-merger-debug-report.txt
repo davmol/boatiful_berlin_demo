@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:design:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7c28cfde9289ed6abf7db669d7e08f50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fbadbab87da9cb85088ae8a8d48e6132/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5301eec4846de47e8514212b032c4366/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/586acce0437a1ac7e0c8436579314ae0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2bafc6796b3f2adf48d32f608459e254/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ed9fd614f4775dcfb6853dd786442185/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/521d3cae35f72fed4cd88ee83843ac50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc2f479b390f198083992813263c3672/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/16237c74cdbf2c3da2ffa08f3ee15574/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/1620ae35496ed4204eeed240fd21ba23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ba5d3831a9395be2b50f2475816fa8e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2aa2ae087c138d47ff3d73be2b53ee79/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e5c9930e960bb9ef7fb9e3fe752a0b98/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/668beadd77686e068084786805d8af8e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6af981c0e1f863c3876c589921b09e6e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dffd039dc5cc4efe22e2a9fb82ff1575/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:17:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:18:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:19:22-76
+application
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:21:5-37:19
+	android:label
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:23:9-49
+	android:allowBackup
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.graphhopper.android.SplashScreen
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:configChanges
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:28:13-74
+	android:name
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:27:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.graphhopper.android.MainActivity
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:35:9-49
+	android:name
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:35:19-47
+activity#com.graphhopper.android.InfoActivity
+ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:36:9-60
+	android:name
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml:36:19-47
+uses-sdk
+INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7c28cfde9289ed6abf7db669d7e08f50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7c28cfde9289ed6abf7db669d7e08f50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fbadbab87da9cb85088ae8a8d48e6132/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fbadbab87da9cb85088ae8a8d48e6132/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5301eec4846de47e8514212b032c4366/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5301eec4846de47e8514212b032c4366/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/586acce0437a1ac7e0c8436579314ae0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/586acce0437a1ac7e0c8436579314ae0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2bafc6796b3f2adf48d32f608459e254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2bafc6796b3f2adf48d32f608459e254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ed9fd614f4775dcfb6853dd786442185/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ed9fd614f4775dcfb6853dd786442185/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/521d3cae35f72fed4cd88ee83843ac50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/521d3cae35f72fed4cd88ee83843ac50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc2f479b390f198083992813263c3672/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc2f479b390f198083992813263c3672/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/16237c74cdbf2c3da2ffa08f3ee15574/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/16237c74cdbf2c3da2ffa08f3ee15574/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/1620ae35496ed4204eeed240fd21ba23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/1620ae35496ed4204eeed240fd21ba23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ba5d3831a9395be2b50f2475816fa8e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ba5d3831a9395be2b50f2475816fa8e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2aa2ae087c138d47ff3d73be2b53ee79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/david/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2aa2ae087c138d47ff3d73be2b53ee79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e5c9930e960bb9ef7fb9e3fe752a0b98/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e5c9930e960bb9ef7fb9e3fe752a0b98/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/668beadd77686e068084786805d8af8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/668beadd77686e068084786805d8af8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6af981c0e1f863c3876c589921b09e6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6af981c0e1f863c3876c589921b09e6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dffd039dc5cc4efe22e2a9fb82ff1575/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dffd039dc5cc4efe22e2a9fb82ff1575/AndroidManifest.xml:20:5-44
+INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+		ADDED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/david/Documents/boatiful/app/src/main/AndroidManifest.xml

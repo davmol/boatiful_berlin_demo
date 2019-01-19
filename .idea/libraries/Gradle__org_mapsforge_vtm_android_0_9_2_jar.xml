@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mapsforge:vtm-android:0.9.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapsforge/vtm-android/0.9.2/8e8908cca16094a4891c9eed8288d90e084e76c2/vtm-android-0.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapsforge/vtm-android/0.9.2/74e5ac6bf5ff39147c895bd24142079e37a66d1d/vtm-android-0.9.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

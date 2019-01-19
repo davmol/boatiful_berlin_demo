@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="app_name">Boatiful Demo Berlin</string>
+    <string name="version">v 1.0</string>
+    <string name="title_activity_main"></string>
+    <string name="logo">logo</string>
+    <string name="usage">Set Start: Long Tap\nSet Finish: Long Tap\nReset: Long Tap</string>
+    <string name="location_start">Zoom to Location: Tap\nLocation as Start: Long Tap\nReset: Long Tap</string>
+    <string name="credits">Boatiful Demo Berlin v1.0\n© 2019 Molitor Ramstetter Oestreich</string>
+
+
+</resources>

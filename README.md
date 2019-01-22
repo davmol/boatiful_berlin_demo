@@ -10,16 +10,18 @@ and offline Routing on the River and Canal Network of the City. Beyond the faste
 Simply download and install the "Boatiful Demo Berlin.apk" on your android device.
 
 
-# Background
+# Background Story
 
 # Map
+The Basemap uses the .map format used with the Mapsforge VTM Render Engine.
+The Basemap is created with Osmosis & Mapsforge-Writer Plugin. For the visualization is a custom VTM Theme is applied with costum POIs for waterways. 
 
 # Routing
-custom routing profile on water via the open source graphhopper core api which can be found here:
+Custom routing profile on water via the open source graphhopper core api which can be found here:
 
 https://github.com/graphhopper/graphhopper
 
-graphhopper is a routing enginge that works on OpenStreetMap data. The custom routing profile uses following waytags:
+Graphhopper is a routing enginge that works on OpenStreetMap data. The custom routing profile uses following waytags:
 <waterway="river"/>
 <waterway="canal"/>
 <boat="yes"/>

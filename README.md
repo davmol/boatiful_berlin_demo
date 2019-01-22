@@ -7,7 +7,7 @@ and offline Routing on the River and Canal Network of the City. Beyond the faste
 
 
 # Quick Start
-Simply download and install the "Boatiful Demo Berlin.apk" on your android device. Ensure GPS availability for user location usage.
+Simply download and install the "Boatiful Demo Berlin.apk" on your android device. Ensure GPS availability for user location usage. Supported android api levels are: 23 - 27.
 
 <p align="center">
   <img src="http://davmol.de/git_hub_data/Screenshot_20190120-130104.jpg" width="350">

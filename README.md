@@ -18,8 +18,17 @@ Simply download and install the "Boatiful Demo Berlin.apk" on your android devic
 # Background Story
 
 # Map
-The Basemap uses the .map format used with the Mapsforge VTM Render Engine.
-The Basemap is created with Osmosis & Mapsforge-Writer Plugin. For the visualization is a custom VTM Theme is applied with costum POIs for waterways. 
+The Basemap uses the .map format used with the Mapsforge VTM Render Engine:
+
+https://github.com/mapsforge/vtm
+
+The Basemap is created with Osmosis & Mapsforge-Writer Plugin:
+
+https://wiki.openstreetmap.org/wiki/Osmosis
+
+https://github.com/mapsforge/mapsforge/blob/master/docs/Getting-Started-Map-Writer.md
+
+For the visualization a custom VTM Theme is applied with custom POIs for waterways.
 
 # Routing
 Custom routing profile on water via the open source graphhopper core api which can be found here:
@@ -27,6 +36,7 @@ Custom routing profile on water via the open source graphhopper core api which c
 https://github.com/graphhopper/graphhopper
 
 Graphhopper is a routing enginge that works on OpenStreetMap data. The custom routing profile uses following waytags:
+
 <waterway="river"/>
 <waterway="canal"/>
 <boat="yes"/>

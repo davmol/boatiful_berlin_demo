@@ -12,6 +12,9 @@ Simply download and install the "Boatiful Demo Berlin.apk" on your android devic
 
 <p align="center">
   <img src="http://davmol.de/git_hub_data/Screenshot_20190120-125929.jpg" width="350">
+</p>
+
+<p align="center">
   <img src="ftp://davmol.de/git_hub_data/Screenshot_20190120-130040.jpg" width="350">
 </p>
 

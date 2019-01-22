@@ -9,8 +9,11 @@ and offline Routing on the River and Canal Network of the City. Beyond the faste
 # Quick Start
 Simply download and install the "Boatiful Demo Berlin.apk" on your android device.
 
+<p align="center">
+  <img src="http://davmol.de/git_hub_data/Screenshot_20190120-130104.jpg" width="350">
+  <img src="http://davmol.de/git_hub_data/Screenshot_20190120-130232.jpg" width="350">
+</p>
 
- <img src="ftp://davmol.de/git_hub_data/Screenshot_20190120-130040.jpg" width="350">
  
 # Background Story
 

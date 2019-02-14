@@ -1,7 +1,6 @@
 # Boatiful Berlin Demo
 
-An Android App thought for those who like paddle on the water. The Boatiful Demo Berlin app is a PoC and provides a Berlin offline Map
-and offline Routing on the River and Canal Network of the City. Beyond the fastest route, time and distance, speed and accuracy bearing via gps will be displayed. Symbology and Usage will be explained within the app.
+An Android App thought for those who like to paddle on the water. The Boatiful Demo Berlin app is a PoC and provides a Berlin offline Map with offline Routing on the River and Canal Network of the City. Beyond the fastest route, time and distance, speed and accuracy bearing via gps will be displayed. Symbology and Usage will be explained within the app.
 <br>
 <br>
 <p align="center">
@@ -42,11 +41,11 @@ https://github.com/mapsforge/mapsforge/blob/master/docs/Getting-Started-Map-Writ
 For the visualization a custom VTM Theme is applied with custom POIs for waterways.
 
 # Routing
-Custom routing profile on water via the open source graphhopper core api which can be found here:
+Custom routing profile on waterways via the open source graphhopper core api which can be found here:
 
 https://github.com/graphhopper/graphhopper
 
-Graphhopper is a routing enginge that works on OpenStreetMap data. The custom routing profile uses following waytags:
+Graphhopper is a routing enginge that works on OpenStreetMap data. The custom routing profile uses following tags:
 
 <waterway="river">
 <boat="yes">

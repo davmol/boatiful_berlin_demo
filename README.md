@@ -48,8 +48,7 @@ https://github.com/graphhopper/graphhopper
 
 Graphhopper is a routing enginge that works on OpenStreetMap data. The custom routing profile uses following waytags:
 
-<waterway="river"/>
-<waterway="canal"/>
-<boat="yes"/>
+<waterway="river">
+<boat="yes">
 
 

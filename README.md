@@ -2,18 +2,18 @@
 
 An Android App thought for those who like paddle on the water. The Boatiful Demo Berlin app is a PoC and provides a Berlin offline Map
 and offline Routing on the River and Canal Network of the City. Beyond the fastest route, time and distance, speed and accuracy bearing via gps will be displayed. Symbology and Usage will be explained within the app.
-
-
-
-
-# Quick Start
-Simply download and install the "Boatiful Demo Berlin.apk" on your android device. Ensure GPS availability for user location usage. Supported android api levels are: 23 - 27.
-
+<br>
 <p align="center">
   <img src="http://davmol.de/git_hub_data/Screenshot_20190120-130104.jpg" width="250">
   <img src="http://davmol.de/git_hub_data/Screenshot_20190120-130232.jpg" width="250">
   <img src="http://i67.tinypic.com/2iaztog.jpg" width="250">
 </p>
+
+
+# Quick Start
+Simply download and install the "Boatiful Demo Berlin.apk" on your android device. Ensure GPS availability for user location usage. Supported android api levels are: 23 - 27.
+
+
 
  
 # Background Story

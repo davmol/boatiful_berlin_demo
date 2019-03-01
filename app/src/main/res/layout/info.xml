@@ -23,7 +23,7 @@
             android:layout_alignParentLeft="true"
             android:layout_gravity="left"
             android:backgroundTint="@color/Transparent"
-            android:elevation="5dp"
+            android:elevation="0dp"
             android:onClick="ReturnHome"
             android:src="@drawable/ic_keyboard_backspace_black_24dp" />
 
@@ -333,6 +333,7 @@
             android:paddingLeft="10dp"
             android:paddingBottom="15dp"
             android:text="@string/credits"
+            android:textSize="12dp"
             android:textAlignment="center" />
     </RelativeLayout>
 </LinearLayout>

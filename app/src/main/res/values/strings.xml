@@ -7,7 +7,5 @@
     <string name="logo">logo</string>
     <string name="usage">Set Start: Long Tap\nSet Finish: Long Tap\nReset: Long Tap</string>
     <string name="location_start">Zoom to Location: Tap\nLocation as Start: Long Tap\nReset: Long Tap</string>
-    <string name="credits">Boatiful Demo Berlin v1.0\n© 2019 Molitor Ramstetter Oestreich</string>
-
-
+    <string name="credits">2019 Molitor Ramstetter Oestreich Dunemann\nBoatiful Demo Berlin v1.0.1\n\nlogo by Freepik from www.flaticon.com</string>
 </resources>

@@ -1,8 +1,8 @@
-# Referenced at /Users/david/Documents/boatiful/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:42
+# Referenced at /Users/david/Code/android/boatiful/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:41
 -keep class com.graphhopper.android.InfoActivity { <init>(...); }
-# Referenced at /Users/david/Documents/boatiful/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:41
+# Referenced at /Users/david/Code/android/boatiful/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:40
 -keep class com.graphhopper.android.MainActivity { <init>(...); }
-# Referenced at /Users/david/Documents/boatiful/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:32
+# Referenced at /Users/david/Code/android/boatiful/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:31
 -keep class com.graphhopper.android.SplashScreen { <init>(...); }
 # Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7c28cfde9289ed6abf7db669d7e08f50/res/layout/design_bottom_navigation_item.xml:26
 -keep class android.support.design.internal.BaselineLayout { <init>(...); }
@@ -22,7 +22,7 @@
 # Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7c28cfde9289ed6abf7db669d7e08f50/res/layout/design_bottom_sheet_dialog.xml:26
 -keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
 
-# Referenced at /Users/david/Documents/boatiful/app/src/main/res/layout/main.xml:26
+# Referenced at /Users/david/Code/android/boatiful/app/src/main/res/layout/main.xml:26
 -keep class android.support.design.widget.FloatingActionButton { <init>(...); }
 
 # Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7c28cfde9289ed6abf7db669d7e08f50/res/layout/design_layout_snackbar.xml:18
@@ -82,7 +82,7 @@
 # Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fbadbab87da9cb85088ae8a8d48e6132/res/layout/abc_search_view.xml:75
 -keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
 
-# Referenced at /Users/david/Documents/boatiful/app/src/main/res/layout/info.xml:9
+# Referenced at /Users/david/Code/android/boatiful/app/src/main/res/layout/info.xml:9
 # Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fbadbab87da9cb85088ae8a8d48e6132/res/layout/abc_screen_toolbar.xml:36
 -keep class android.support.v7.widget.Toolbar { <init>(...); }
 
@@ -95,9 +95,9 @@
 # Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fbadbab87da9cb85088ae8a8d48e6132/res/layout/abc_alert_dialog_button_bar_material.xml:43
 -keep class android.widget.Space { <init>(...); }
 
-# Referenced at /Users/david/Documents/boatiful/app/src/main/res/layout/main.xml:12
+# Referenced at /Users/david/Code/android/boatiful/app/src/main/res/layout/main.xml:12
 -keep class org.oscim.android.MapView { <init>(...); }
 
-# Referenced at /Users/david/Documents/boatiful/app/src/main/res/layout/info.xml:19
+# Referenced at /Users/david/Code/android/boatiful/app/src/main/res/layout/info.xml:19
 -keepclassmembers class * { *** ReturnHome(...); }
 

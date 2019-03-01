@@ -817,6 +817,7 @@ id auto
 id backButton
 id beginning
 id blocking
+id boat1
 id bottom
 id buttonPanel
 id cancel_action
@@ -1006,6 +1007,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout boat_type
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar

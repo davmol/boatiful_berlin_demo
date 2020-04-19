@@ -17,7 +17,7 @@ Simply download and install the "Boatiful Demo Berlin.apk" on your android devic
 <br>
 
 <p>
-  For Download scan or click here:<br>
+  For Download click here:<br>
   <a href="https://mega.nz/#!7B4DzYQZ!6vI7_Xsx2HoXtSvSnEUH0Yja_jXh02fLaiBD20Vdxog">
   <img alt="Download here" src="https://i.ibb.co/KND6Jwp/a9ea4068-0cca-44b0-9ccf-0dbed7961811.jpg" width="300">
 </a>
